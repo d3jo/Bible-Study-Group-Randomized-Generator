@@ -4,7 +4,7 @@
 
 Streams participant responses from Google Forms directly into Google Sheets and dynamically generates randomized bible study groups in real time.
 
-Implemented in Google Apps Script logic to automatically rebalance teams based on group size thresholds, ensuring fairness and eliminating manual coordination. 
+Implemented in Google Apps Script logic to automatically rebalance teams based on group size thresholds.
 
 **Why?**
 
